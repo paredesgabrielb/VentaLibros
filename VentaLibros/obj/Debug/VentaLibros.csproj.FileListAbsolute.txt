@@ -1,0 +1,6 @@
+c:\users\asuslaptop\documents\visual studio 2013\Projects\VentaLibros\VentaLibros\bin\Debug\VentaLibros.exe.config
+c:\users\asuslaptop\documents\visual studio 2013\Projects\VentaLibros\VentaLibros\obj\Debug\VentaLibros.csprojResolveAssemblyReference.cache
+c:\users\asuslaptop\documents\visual studio 2013\Projects\VentaLibros\VentaLibros\bin\Debug\VentaLibros.exe
+c:\users\asuslaptop\documents\visual studio 2013\Projects\VentaLibros\VentaLibros\bin\Debug\VentaLibros.pdb
+c:\users\asuslaptop\documents\visual studio 2013\Projects\VentaLibros\VentaLibros\obj\Debug\VentaLibros.exe
+c:\users\asuslaptop\documents\visual studio 2013\Projects\VentaLibros\VentaLibros\obj\Debug\VentaLibros.pdb
